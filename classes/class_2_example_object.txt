@@ -1,0 +1,22 @@
+An object that is an instance of the class "Employee" is Steve.
+
+Attribute: Name
+Value:
+	-Steve
+
+Attribute: Scheduled_to_work
+Value:
+	-Yes
+
+Attribute: Pay_rate
+Value:
+	-15.08
+
+Method being called: Take_order
+Steve takes the customer's order
+
+Method being called: Bus_table
+Steve busses the table after a customer is done eating
+
+Method being called: Clean_floor
+Steve cleans the floor before closing
