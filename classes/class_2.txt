@@ -6,6 +6,6 @@ Attributes:
 3. Pay rate (float)
 
 Methods:
-1. Take_order
-2. Bus_table
-3. Clean_floor
+1. Take_order (This method makes the employee class take a customer's order. It doesn't directly impact any of the listed attributes.)
+2. Bus_table (This method makes the employee class bus a table. It can impact the Scheduled_to_work attribute by making the employee work if the employee busses tables.)
+3. Clean_floor (This method makes the employee class clean the floor. It doesn't directly impact any of the listed attributes.)
