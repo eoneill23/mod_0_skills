@@ -15,3 +15,12 @@ Value:
 Attribute: Name
 Value:
 	-Taco
+
+Method being called: Sautee
+The taco is sauteed
+
+Method being called: Bake
+The taco is baked
+
+Method being called: Add_cheese
+Cheese is added to the taco
