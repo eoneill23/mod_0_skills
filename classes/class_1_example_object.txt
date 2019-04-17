@@ -1,0 +1,17 @@
+An object that is an instance of the class "Meal" is "Taco"
+
+Attribute: Ingredient
+Value:
+	-Taco shell
+	-Meat
+	-Cheese
+	-Lettuce
+	-Sour Cream
+
+Attribute: Appetizer
+Value:
+	-Yes
+
+Attribute: Name
+Value:
+	-Taco
