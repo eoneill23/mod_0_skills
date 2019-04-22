@@ -22,5 +22,5 @@ The taco is sauteed
 Method being called: Bake
 The taco is baked
 
-Method being called: Add_cheese
-Cheese is added to the taco
+Method being called: Fry
+The taco is fried
