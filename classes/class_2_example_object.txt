@@ -6,7 +6,7 @@ Value:
 
 Attribute: Working
 Value:
-	-Yes
+	-True
 
 Attribute: Pay_rate
 Value:
