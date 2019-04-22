@@ -1,4 +1,4 @@
-Restaurant class: Meals
+Restaurant class: Meal
 
 Attributes: 
 1. Ingredients (Array)
@@ -8,4 +8,4 @@ Attributes:
 Methods:
 1. Sautee (This method can change the ingredient attribute ex. onions to satueed onions)
 2. Bake (This method can also change the ingredient attribute ex. chicken to baked chicken)
-3. Add_cheese (This method can change the name attribute ex. hamburger to cheeseburger and the ingredients attribute ex. baked potato to baked potato with cheese.)
+3. Fry (This method can change the name attribute ex. chicken to fried_chicken.)
