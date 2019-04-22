@@ -2,7 +2,7 @@ Class: Employee
 
 Attributes:
 1. Name (string)
-2. Scheduled_to_work (boolean)
+2. Working (boolean)
 3. Pay rate (float)
 
 Methods:
